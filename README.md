@@ -126,7 +126,7 @@
 ### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shariar-nafiz/shariar-nafiz/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/shariar-nafiz/shariar-nafiz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br />
